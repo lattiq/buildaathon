@@ -1,5 +1,5 @@
 # Synapse by LattIQ
-This repository contains the code and resources for **[Solution Name]**, an innovative solution that extends the Account Aggregator (AA) ecosystem by enabling secure, privacy-first intelligence sharing. The core of this solution is to empower Financial Information Users (FIUs) to harness insights from both financial and non-financial data sources through a federated learning approach. By doing so, it expands the AA ecosystem’s data reach while ensuring user data remains protected, aligning with the privacy principles set by the DPDP Act 2023.
+This repository contains an explainer and resources for testing **Synapse**, an innovative solution that extends the Account Aggregator (AA) ecosystem by enabling secure, privacy-first intelligence sharing. The core of this solution is to empower Financial Information Users (FIUs) to harness insights from both financial and non-financial data sources through a federated learning approach. By doing so, it expands the AA ecosystem’s data reach while ensuring user data remains protected, aligning with the privacy principles set by the DPDP Act 2023.
 
 ### Key Features:
 - **Data Diversity for Holistic Insights**: 
